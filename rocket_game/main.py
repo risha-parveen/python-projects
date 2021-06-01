@@ -61,7 +61,7 @@ def draw_winner(text):
 	draw_text=WINNER_FONT.render(text, 1, (200,255,250))
 	WIN.blit(draw_text, (WIDTH/2 -draw_text.get_width()/2 , HEIGHT/2 - draw_text.get_height()/2))
 	pygame.display.update()
-	pygame.time.delay(7000) # to pause the game for 5 sec and restart the game
+	pygame.time.delay(4000) # to pause the game for 5 sec and restart the game
 
 def yellow_handle_movement(keys_pressed, yellow):
 	# here switching the values of spaceship width and height so that
