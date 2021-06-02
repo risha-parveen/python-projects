@@ -7,8 +7,8 @@ Rules:
 - Any dead cell with three live neighbours becomes a live cell.
 - All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
-< img src ="https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/small.PNG" width="600" height="400">
+![](https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/small.PNG")
 
-< img src ="https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/medium.PNG" width="600" height="400">
+![](https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/medium.PNG")
 
-< img src ="https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/large.PNG" width="600" height="400">
+![](https://github.com/risha-parveen/python-projects/blob/master/game_of_life/images/large.PNG")
