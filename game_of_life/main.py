@@ -13,7 +13,7 @@ fps = 60
 bg_color=(15,40,40)
 color=(200,250,250)
 
-scaler = 7
+scaler = 10
 offset = 0.05
 
 Grid = grid1.Grid(width,height, scaler, offset)
